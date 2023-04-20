@@ -23,6 +23,7 @@
 - `mv ~/vim ~/.vim`
 - `mv ~/.vim/.vimrc ~/`
 - clone bundle 程序：`git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
+- 若无法访问GitHub：`mv ~/.vim/vundle ~/.vim/bundle/vundle`
 - 打开vim并执行bundle程序`:BundleInstall`
 - 重新打开vim即可看到效果
 
